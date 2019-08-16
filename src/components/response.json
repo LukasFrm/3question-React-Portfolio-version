@@ -1,0 +1,111 @@
+{
+    "id": 268,
+    "link": "ML_UK_5Cn1tm",
+    "description": "UK PCWorld 3Question Single S10",
+    "brand": {
+      "name": "PC World",
+      "logo": "https://firstpushbucket.s3.eu-west-3.amazonaws.com/Amazon+Master+Lander/PC_World.png",
+      "buttonColor": "#8E1F80",
+      "hoverButtonColor": "#FFFFFF",
+      "backgroundImg": null,
+      "backgroundColor": "#FFFFFF"
+    },
+    "offerwallItems": [
+      {
+        "offer": {
+          "item": {
+            "name": "Samsung Galaxy S10+",
+            "pictureUrl": "https://firstpushbucket.s3.eu-west-3.amazonaws.com/Amazon+Master+Lander/s10new1.png",
+            "offerOptions": []
+          },
+          "offerText": "--",
+          "landerType": "SIN",
+          "price": "999",
+          "shippingPrice": "2,5",
+          "quantityLeft": 2,
+          "offerUrl": {
+            "url": "https://lukasfrm.github.io/"
+          },
+          "secondLander": null
+        },
+        "offerwallOrderNr": "1"
+      }
+    ],
+    "landerText": {
+      "websiteTitleText": "[BRAND]",
+      "popUpH3Text": "DELIVERY PACKAGE PENDING",
+      "popUpP1Text": "You have (1) package pending delivery. Use your code to track and receive it.",
+      "popUpP2Text": "Your tracking code:",
+      "popUpP3Text": "Track your order",
+      "surveyHeaderText": "Locating your package ...",
+      "surveyH4Text": "Comparing the tracking number...",
+      "websiteP1Text": "Looking for delivery options...",
+      "websiteP2Text": "Package Info",
+      "questionsHeaderText": "State",
+      "checkingProductText": "Ready for delivery",
+      "submittingText": "Shipment method",
+      "completedSurveyH4Text": "Contents",
+      "completedSurveyP1Text": "Shipment fee",
+      "completedSurveyP2Text": "Schedule your delivery now",
+      "offerPriceText": "ORDER CONFIRMATION",
+      "offerTodayPriceText": "Expected delivery:",
+      "orderShippingText": "3 days with",
+      "orderQuantityLeftText": "Royal Mail",
+      "offerButtonText": "Enter Shipping Information",
+      "comments": [],
+      "questions": [
+        {
+          "question": "How do you want your package delivered?",
+          "answers": [
+            {
+              "answer": "I want it delivered to my house"
+            },
+            {
+              "answer": "I will pick it up myself"
+            }
+          ]
+        },
+        {
+          "question": "Where do you want it to be delivered?",
+          "answers": [
+            {
+              "answer": "My Home Address"
+            },
+            {
+              "answer": "Work"
+            }
+          ]
+        },
+        {
+          "question": "When do you want it delivered?",
+          "answers": [
+            {
+              "answer": "On a Weekday"
+            },
+            {
+              "answer": "On Weekend"
+            }
+          ]
+        }
+      ],
+      "surveyExperienceText": "Developed by",
+      "leaveCommentText": "Order Confirmation",
+      "commentButtonText": "Expected delivery time",
+      "thankYouText": "3 days with",
+      "antiSpamText": "*Confirm your delivery details and pay the shipping fee on the next page",
+      "ClickOkText": "Enter Shipping Information",
+      "offerOptionText": "-",
+      "OfferArriveText": "-",
+      "language": []
+    },
+    "locale": {
+      "name": "UK",
+      "flag": "https://firstpushbucket.s3.eu-west-3.amazonaws.com/Amazon+Master+Lander/ukflag.png",
+      "currencyTag": "£",
+      "fullCountryName": "United Kingdom"
+    },
+    "template": {
+      "name": "3question"
+    }
+  }
+  
